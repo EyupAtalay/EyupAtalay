@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyüp Atalay</h1>
-<h3 align="center">I'm studying computer engineering.I'm 23 years old. I have developed android mobile applications using Kotlin language and I am currently progressing in Data science using Python.I have many apps on google play.</h3>
+<h3 align="center">I'm studying computer engineering.I'm 23 years old. I have developed android mobile applications using Kotlin language and I am currently progressing in Data science using Python.I have many apps on google play</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupatalay" alt="eyupatalay" /></a> </p>
 
