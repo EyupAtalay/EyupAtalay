@@ -1,6 +1,6 @@
 <h1 align="center">Eyüp Atalay</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupatalay" alt="eyupatalay" /></a> </p>
+
 
 - 🌱 I’m currently learning **Kotlin**
 
