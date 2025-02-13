@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin**
+
 
 - 📫 How to reach me **atalaystudio@gmail.com**
 
